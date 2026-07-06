@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="flex items-center">
           <img 
             alt="Aura Herbal Logo" 
-            className="h-10 md:h-12 w-auto object-contain" 
+            className="h-14 md:h-16 w-auto object-contain" 
             src={IMAGE_PATHS.LOGO} 
           />
         </div>
