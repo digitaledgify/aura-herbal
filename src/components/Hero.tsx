@@ -19,8 +19,8 @@ export default function Hero() {
               </span>
             ))}
           </div>
-          <h1 className="font-serif text-4xl md:text-5xl lg:text-7xl text-primary mb-6 leading-[1.1] font-semibold tracking-tight">
-            Aura Herbal Hair Oil 🌿
+          <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-primary mb-6 leading-[1.1] font-semibold tracking-tight">
+            Aura Herbal — Ayurvedic Hair Oil for Hair Fall & Growth 🌿
           </h1>
           <p className="font-sans text-lg text-on-surface-variant mb-8 max-w-lg leading-relaxed">
             Pure Herbal Care for Stronger, Healthier Hair. Made with traditional Ayurvedic ingredients to reduce hair fall, boost growth, and nourish your scalp naturally.
@@ -70,7 +70,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-primary-container/5 rounded-full blur-3xl scale-125"></div>
           <img 
             className="relative z-10 w-full rounded-2xl botanical-shadow transform transition-transform duration-700 hover:scale-[1.02]" 
-            alt="Aura Herbal Premium Hair Oil bottle" 
+            alt="Aura Herbal Ayurvedic hair oil bottle for hair fall and hair growth" 
             src={IMAGE_PATHS.HERO_PRODUCT} 
           />
           <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl botanical-shadow z-20 hidden lg:block max-w-[240px]">
