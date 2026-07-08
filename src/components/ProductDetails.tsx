@@ -44,7 +44,7 @@ export default function ProductDetails() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               className="rounded-lg h-full w-full object-cover botanical-shadow" 
-              alt="Herbal ground paste" 
+              alt="Herbal paste made from natural hair oil ingredients" 
               loading="lazy"
               src={IMAGE_PATHS.HERBAL_PASTE} 
             />
@@ -54,7 +54,7 @@ export default function ProductDetails() {
               viewport={{ once: true }}
               transition={{ delay: 0.2 }}
               className="rounded-lg h-full w-full object-cover translate-y-8 md:translate-y-12 botanical-shadow" 
-              alt="Ingredients wooden bowl" 
+              alt="Natural Ayurvedic ingredients used in Aura Herbal hair oil" 
               loading="lazy"
               src={IMAGE_PATHS.INGREDIENT_BOWL} 
             />

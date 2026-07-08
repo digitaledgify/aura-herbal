@@ -20,7 +20,7 @@ export default function Ingredients() {
     {
       title: "Pure Oil Base",
       icon: "💧",
-      items: ["Hand-pressed Coconut Oil", "Castor Oil"]
+      items: ["Hand-pressed Coconut Oil", "Traditional Lamp Oil"]
     }
   ];
 
